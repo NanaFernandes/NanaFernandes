@@ -1,7 +1,7 @@
 
 # 👩‍💻 Ana Fernandes 🎨
 
-Hello, I am Ana Carolina Fernandes and I would like to give you a tour of my interests and hobbies.
+Hello, I'm Ana Carolina Fernandes, and I'm excited to take you on a tour of my interests and hobbies.
 
 ## 📚 Education
 - Computer Technician Degree (IFMG - 2016/2018)
