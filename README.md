@@ -46,6 +46,11 @@ I'm passionate about using my creativity to express myself through technology, w
 - Play games;
 - Learn new programming languages.
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NanaFernandes&theme=transparent&bg_color=FFF&border_color=FFC0CB&show_icons=true&icon_color=FFC0CB&title_color=E94D5F&text_color=FFC0CB)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NanaFernandes&bg_color=FFF&border_color=FFC0CB&title_color=E94D5F&text_color=FFC0CB)
+
+
 ## 🌐 Socials: 
 [Instagram](https://www.instagram.com/ana.helianthus/)
 [Linkedin](https://www.linkedin.com/in/ana-carolina-fernandes-clementino-8a82a6235/)
